@@ -14,4 +14,3 @@ function trueCount() {
     // Display the result in the input field
     resultInput.value = trueValues;
 }
-

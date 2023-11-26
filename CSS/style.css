@@ -27,3 +27,16 @@ body{
     padding: 10px;
     width: 1200px;
 }
+
+@media screen and (max-width: 300px) {
+    #input {
+        width: 90%;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 720px) {
+    #input {
+        width: 90%;
+        margin: auto;
+    }
+}
